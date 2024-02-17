@@ -46,4 +46,6 @@ brew install tor
 
 tor
 
+brew services start tor
+
 
