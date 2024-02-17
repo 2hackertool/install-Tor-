@@ -26,6 +26,8 @@ on termux
 
 apt update && apt upgrade
 
+pkg up -y
+
 pkg install tor
 
 tor
