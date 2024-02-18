@@ -16,7 +16,7 @@ torsocks command
 
 exmple torsocks firefox
 
-torsocks w3m <web-page-url>
+torsocks w3m web-page-url
 
 example url.fi
 
