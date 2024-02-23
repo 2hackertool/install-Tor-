@@ -8,9 +8,13 @@ sudo apt upgrade
 
 sudo apt install tor
 
+sudo apt install torsocks
+
 to run tor
 
 tor
+
+sudo apt services start tor
 
 torsocks command 
 
@@ -30,7 +34,11 @@ pkg up -y
 
 pkg install tor
 
+pkg install torsocks
+
 tor
+
+pkg services start tor
 
 torsocks command 
 
